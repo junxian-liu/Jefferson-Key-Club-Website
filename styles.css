@@ -7830,7 +7830,7 @@ textarea.form-control-lg {
 
 .bg-announcement{
   --bs-bg-opacity: 1;
-  background-image: url(announcments.png) !important;
+  background-color: white !important;
 }
 
 .bg-timeline{
