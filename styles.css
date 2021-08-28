@@ -7820,7 +7820,17 @@ textarea.form-control-lg {
 
 .bg-event{
   --bs-bg-opacity: 0.7;
-  background-image: url(eventpics.png) !important;
+  background-image: url(events.png) !important;
+}
+
+.bg-officers{
+  --bs-bg-opacity: 0.7;
+  background-image: url(officers.png) !important;
+}
+
+.bg-announcement{
+  --bs-bg-opacity: 1;
+  background-image: url(announcments.png) !important;
 }
 
 .bg-timeline{
