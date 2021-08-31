@@ -7837,6 +7837,11 @@ textarea.form-control-lg {
   --bg-bs-opacity: 1;
   background-image: url(timelineevent.png) !important;
 }
+
+.bg-forms{
+  --bs-bg-opacity: 1;
+  background-color: #a8d2f7 !important;
+}
 .bg-dark {
   --bs-bg-opacity: 1;
   background-color: rgba(var(--bs-dark-rgb), var(--bs-bg-opacity)) !important;
