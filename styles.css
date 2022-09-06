@@ -7825,7 +7825,7 @@ textarea.form-control-lg {
 
 .bg-officers{
   --bs-bg-opacity: 0.7;
-  background-image: url(officers.png) !important;
+  background-image: url(miscellaneous/officers.png) !important;
 }
 
 .bg-announcement{
@@ -7835,7 +7835,7 @@ textarea.form-control-lg {
 
 .bg-timeline{
   --bg-bs-opacity: 1;
-  background-image: url(timelineevent.png) !important;
+  background-image: url(miscellaneous/timelineevent.png) !important;
 }
 
 .bg-forms{
@@ -11411,7 +11411,7 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-  background-image: url("jeff-pic-1.jpg");
+  background-image: url("miscellaneous/jeff-pic-1.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
